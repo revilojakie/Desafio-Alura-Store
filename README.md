@@ -28,7 +28,7 @@ Ao final, é fornecida uma recomendação baseada em dados sobre **qual loja dev
 
 | Arquivo | Descrição |
 |--------|-----------|
-| `analise_lojas.ipynb` | Notebook principal com todos os dados, visualizações e conclusões |
+| `AluraStoreBr.ipynb` | Notebook principal com todos os dados, visualizações e conclusões |
 | `README.md` | Este arquivo com a descrição do projeto |
 
 ---
